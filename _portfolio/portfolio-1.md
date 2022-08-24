@@ -1,7 +1,8 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "HANNA Benchmark"
+excerpt: "HANNA, a large annotated dataset of Human-ANnotated NArratives for ASG evaluation."
 collection: portfolio
+url: https://github.com/lashoun/hanna-benchmark-asg
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+HANNA is a large annotated dataset of Human-ANnotated NArratives for ASG evaluation. It was introduced in the paper "Of Human Criteria and Automatic Metrics: A Benchmark of the Evaluation of Story Generation" accepted in COLING 2022.
