@@ -11,28 +11,28 @@ redirect_from:
 
 Education
 ======
-* Preparatory School MPSI-MP*, Lycée privé Sainte-Geneviève, 2014-2016
-* M.S. in Computer Science and Engineering, Télécom Paris, 2021
-* M.S. in Computer Science and Engineering, École polytechnique, 2021
 * Ph.D in Computer Science, Télécom Paris, 2024 (expected)
+* M.S. in Computer Science and Engineering, École polytechnique, 2021
+* M.S. in Computer Science and Engineering, Télécom Paris, 2021
+* Preparatory School MPSI-MP*, Lycée privé Sainte-Geneviève, 2014-2016
 
 Work experience
 ======
-* March-July 2019: Research Intern
-  * Télécom Paris
-  * Designed a clustering algorithm capable of one-shot learning and object description
-  * Supervisor: Jean-Louis Dessalles
-
-* July-December 2020: Machine Learning Research Intern
-  * [DeepLife](https://www.deeplife.co/)
-  * Designed and benchmarked algorithms for predicting the evolution of biological cell states
-  * Supervisor: Jean-Baptiste Morlot
 
 * February 2021 - Today: Ph.D Student
   * [Télécom Paris](https://www.telecom-paris.fr/en/home)
   * Currently studying Automatic Story Generation
   * Superviors: [Fabian M. Suchanek](https://www.suchanek.name/) and [Chloé Clavel](https://clavel.wp.imt.fr/)
 
+* July-December 2020: Machine Learning Research Intern
+  * [DeepLife](https://www.deeplife.co/)
+  * Designed and benchmarked algorithms for predicting the evolution of biological cell states
+  * Supervisor: Jean-Baptiste Morlot
+
+* March-July 2019: Research Intern
+  * Télécom Paris
+  * Designed a clustering algorithm capable of one-shot learning and object description
+  * Supervisor: Jean-Louis Dessalles
   
 Publications
 ======
